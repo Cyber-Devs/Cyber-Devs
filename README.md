@@ -1,6 +1,6 @@
-# 🚀 Welcome to CyberStack
+# 🚀 CyberStack
 
-**CyberStack** is a forward-driven engineering collective building next-gen, secure, and modular software — from full-stack platforms to advanced cybersecurity systems. We specialize in **future-ready development**, blending clean architecture with real-world performance.
+CyberStack is a forward-driven engineering collective building next-gen, secure, and modular software — from full-stack platforms to advanced cybersecurity systems. We specialize in **future-ready development**, blending clean architecture with real-world performance.
 
 > We don’t just build software. We architect innovation.
 
